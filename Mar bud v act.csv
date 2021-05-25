@@ -1,0 +1,227 @@
+Account,Actual,Budget
+Income,,
+   Billable Expense Income,,
+   Discounts (deleted),,
+   Discounts/Refunds Given,,
+   Gross Receipts,,
+   PayPal Sales,,
+   Refunds (deleted),,
+   Retail Revenue,0,"10,356.54"
+   Sales,,
+   Sales from Website (deleted),,
+   Sales of Product Income,"11,195.32",0
+      Amazon Sales,"140,698.69","223,716.43"
+         Amazon Refunds,"-2,958.80",-1739.582752
+      Total Amazon Sales,"$374,275.71 ","$234,304.77 "
+      Fresh Dog,0,0
+      Kickstarter Sales,0,0
+      Other Sales Source,"13,053.35","11,338.79"
+      POS,0,0
+      Sales from Website,"1,476,393.66","235,819.43"
+         Discounts/Refunds Given,0,0
+         Shopify Discounts,0,0
+         Shopify Refunds,-631.7997895,"-4,347.87"
+         Stripe Refunds,-678.066864,0
+      Total Sales from Website,"$294,170.45 ","$160,869.15 "
+      Wholesale Sales,0,0
+   Total Sales of Product Income,"$460,952.23 ","$265,974.72 "
+   Shipping Income,"9,041.95","29,814.18"
+      Shipping Refunds,-57.98686758,-81.33724266
+   Total Shipping Income,"$80,952.19 ","$52,717.56 "
+   Unapplied Cash Payment Income,0,0
+   Uncategorized Income,0,0
+Total Income,"$411,208.17 ","$349,490.65 "
+Cost of Goods Sold,0,0
+   Amazon Fees,"245,823.90","34,441.08"
+   Amazon Promo Rebates,"6,594.92","4,349.09"
+   Amazon Referral Fees,0,0
+      Amazon Selling Fees,"14,067.83","68,609.29"
+      Amazon Subscription Fees,41.07897607,1212.307755
+   Total Amazon Referral Fees,"$12,987.87 ","$24,725.16 "
+   COGS,"98,971.07","168,613.49"
+      Amazon Transaction Fees (deleted),0,0
+   Total COGS,"$102,901.73 ","$84,739.76 "
+   Cost of labor - COS,"106,763.00","54,609.87"
+   Customer Shipping - COS,"74,614.17","646,339.71"
+   Ecommerce Transaction Fees,"8,417.47","5,430.98"
+   Inventory Shrinkage,2069.920489,"12,136.95"
+   Manufacturing Freight & Delivery - COS,"28,435.74","10,716.08"
+   Other Costs - COS,"12,437.01",0
+   Purchases - COS,0,0
+   Reconciliation Adjustments,0,0
+   Retail COGS,0,"6,798.23"
+   Subcontractors - COS,0,0
+   Supplies & Materials - COGS,"3,174.77","31,129.96"
+Total Cost of Goods Sold,"$308,649.80 ","$1,012,198.39 "
+Gross Profit,"$57,070.72 ","$186,165.13 "
+Expenses,0,0
+   Advertising & Marketing,0,0
+      Online Advertising - Amazon (deleted),0,0
+   Total Advertising & Marketing,$0.00 ,$0.00 
+   Ask My Accountant,0,0
+   Car & Truck,0,0
+   Consultants/Commissions Expenses,0,0
+   Dues & subscriptions (deleted),0,0
+   Experimental Marketing,0,0
+   Fixed Costs (deleted),0,0
+      Insurance (deleted),0,0
+      Professional Fees (deleted),0,0
+      Stationery & Printing (deleted),0,0
+         Gift Wrap and Box Packaging (deleted),0,0
+      Total Stationery & Printing (deleted),$0.00 ,$0.00 
+   Total Fixed Costs (deleted),$0.00 ,$0.00 
+   General and Administrative Expenses,0,0
+      Bank Charges/Interest,0,0
+         Credit Card Interest,0,0
+         Loan Interest Expense,0,"4,006.07"
+         Other Bank Charges,7630.125392,238.159715
+      Total Bank Charges/Interest,$119.31 ,"$4,783.78 "
+      Contractors,0,0
+      Dues & Subscriptions (deleted),0,0
+      Freight & Delivery,0,0
+      General and Administrative Dues and Subscriptions,272.4021052,607.2605039
+      General and Administrative Headcount Costs,0,0
+      Job Supplies,0,2408.023926
+      Legal/Professional Fees,0,0
+         Accounting Fees,"6,197.04","12,131.55"
+         Accounting Software,0,0
+         Amazon Consultant,0,0
+         Insurance,"7,179.17","1,185.75"
+         Insurance - Disability,0,0
+         Insurance - Liability,0,0
+         Insurance-Life,0,120.2811747
+         Legal Fees,"15,792.55","31,260.85"
+         Professional Fees,0,"1,420.73"
+            Customer Service,"4,547.68","3,192.08"
+         Total Professional Fees,"$10,601.12 ","$4,418.81 "
+         Recruiting,0,0
+         Taxes & Licenses,"27,414.50",1328.405038
+      Total Legal/Professional Fees,"$23,431.69 ","$31,226.73 "
+      Occupancy,0,0
+         Fulfillment Center Transition,0,0
+         Office Supplies & Expense,1389.151736,8635.953573
+         Other Business Expenses,0,0
+         Rent or Lease,6581.749004,0
+         Shipping & Fulfillment,0,0
+         Small Equipment Purchase,0,0
+         Telephone/Internet,110.6024657,926.9775883
+      Total Occupancy,"$1,210.36 ","$1,564.74 "
+      Salaries & Benefits,0,0
+         Benefits,0,0
+         Consultants/Commissions Expense,0,0
+         Payroll,"138,567.41","41,673.76"
+         Payroll Processing Fees,96.9065113,288.7969834
+         Payroll Taxes,"3,116.17","1,817.22"
+         Subcontractors,"33,751.67","26,955.00"
+      Total Salaries & Benefits,"$102,670.83 ","$255,983.83 "
+      Shipping & Delivery Expense,3957.229337,"1,521.23"
+      Travel/Meals/Entertainment,0,0
+         Auto (deleted),0,0
+         Client Meals,928.3948606,5945.220123
+         Entertainment (deleted),0,0
+         Hotel,"3,135.74",65.30104131
+         Transportation,4697.667202,597.6609094
+         Travel Meals,517.4014734,16.16159786
+      Total Travel/Meals/Entertainment,"$5,729.63 ",$536.18 
+   Total General and Administrative Expenses,"$80,135.12 ","$79,062.83 "
+   Marketing,0,0
+      Marketing Dues and Subscriptions,0,0
+      Marketing Expense,0,0
+         Advertisements,0,0
+            Analogue Ads,0,0
+               Direct Mail Advertising,"4,881.15",0
+               Magazine & Print Ads,0,0
+               Product Giveaways,0,0
+               Trade Shows,0,0
+               Trade Shows (deleted),0,0
+            Total Analogue Ads,"$5,113.83 ",$0.00 
+            Digital Ads,0,0
+               Apps & Other,1813.78918,0
+               Facebook,"77,923.36","57,664.52"
+               Google,"106,442.33","36,057.68"
+               Online Amazon Ads,"20,058.21","30,856.06"
+               Online Promotion,1189.697205,513.8481407
+               Podcast,0,0
+               Video Production,0,0
+            Total Digital Ads,"$202,206.62 ","$107,432.60 "
+            Retail Marketing,"23,028.29","66,390.35"
+         Total Advertisements,"$115,191.75 ","$172,858.72 "
+         Charitable Contributions,"27,220.94",0
+         Email,0,0
+         Marketing & Advertising (deleted),0,0
+         Marketing Agency,0,0
+         Online Advertising (deleted),0,0
+         Photography (deleted),0,0
+         PR & Influencer Marketing,0,0
+            Advertising/Promotional (deleted),0,0
+            Kelley (deleted),0,0
+            Koenig (deleted),0,0
+         Total PR & Influencer Marketing,$0.00 ,$0.00 
+         Print Advertising (deleted),0,0
+         Promotional,0,0
+      Total Marketing Expense,"$19,637,999.37 ","$119,249.74 "
+      Marketing Headcount Costs,0,0
+   Total Marketing,"$753,056.30 ","$112,440.32 "
+   Miscellaneous (deleted),0,0
+      Disposal Fees (deleted),0,0
+      Employee Appreciation/Meals (deleted),0,0
+      Job Materials (deleted),0,0
+      Meals & Entertainment (deleted),0,0
+      Travel (deleted),0,0
+   Total Miscellaneous (deleted),$0.00 ,$0.00 
+   Office Expenses,0,0
+   Other Business Expenses,0,0
+   PayPal Fees,0,0
+   Purchases,0,0
+   Reimbursable Expenses,0,0
+   Repairs & Maintenance (deleted),0,0
+   Research & Development,0,0
+      Product Development,0,0
+         Design & Development,309.563939,4154.403489
+         Formula R&D,0,285.3059252
+         Packaging Design,970.7821204,0
+      Total Product Development,"$2,232.91 ","$1,075.28 "
+      Research and Development Dues and Subscriptions,0,0
+      Research and Development Headcount Costs,0,0
+      Website,0,0
+         Apps,"26,333.72","9,984.41"
+         Computer/Web Hosting (deleted),0,0
+         Maintenance (deleted),0,0
+         Marketing Apps,701.0143287,"11,409.50"
+         Tech licenses/Domain renewals (deleted),0,0
+         Web Design/Photography/Videography,-92.80357407,0
+         Website Hosting,"16,394.98","3,477.78"
+      Total Website,"$250,280.49 ","$15,110.74 "
+   Total Research & Development,"$21,647.20 ","$28,652.29 "
+   Retail Broker Fees,0,"1,099.28"
+   Retail Freight Out,0,456.6424379
+   Retail Trade Discounts,0,278.8679039
+   Taxes & Licenses,0,0
+   Tools,0,0
+   Unapplied Cash Bill Payment Expense,0,0
+   Uncategorized Expense,0,0
+   Utilities,0,0
+Total Expenses,"$445,904.11 ","$197,093.99 "
+Net Operating Income,"($208,317.62)","($1,218,815.62)"
+Other Income,0,0
+   C1 Cash Back Rewards,0,0
+   Cash Back Rewards,"3,431.78","9,170.32"
+   Interest Earned,0,0
+   Other Ordinary Income,0,0
+   Other Portfolio Income,0,0
+   PPP Forgiveness Income,"56,544.59",0
+Total Other Income,"$46,872.83 ","$2,301.16 "
+Other Expenses,0,0
+   COVID-19 Related Expenses,0,0
+   Other Expenses,0,0
+      Amortization Expense,0,0
+      Bad Debt Expense,0,0
+      Depreciation Expense,0,0
+      Gain/Loss on Sale of Assets,0,0
+      Interest Paid,0,0
+   Total Other Expenses,$0.00 ,$0.00 
+   Penalties & Settlements,0,0
+   Reconciliation Discrepancies,0,0
+Total Other Expenses,$0.00 ,$0.00 
+Net Other Income,"$99,377.13 ","$3,114.85 "
+Net Income,"($149,326.88)","($328,509.58)"
